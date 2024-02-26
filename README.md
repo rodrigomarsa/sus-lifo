@@ -1,4 +1,4 @@
-# Teste Técnico `SUS-LIFO`
+# Projeto `SUS-LIFO`
 
 Este repositório contém um mini-projeto desenvolvido para atender às necessidades de gestão de fila de pacientes da UPA, seguindo a lógica SUS-LIFO (Last In, First Out), ou seja, o último a chegar é o primeiro a ser atendido.
 
